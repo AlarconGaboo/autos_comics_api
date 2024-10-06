@@ -1,0 +1,50 @@
+{
+  "06eae71f-b72b-4b3c-87ef-213d7c0f0605": {
+    "titulo": "Spider-Man",
+    "autor": "Stan Lee",
+    "issn": "12341234",
+    "cantidad": 550
+  },
+  "f15cae1b-1074-4564-a9e1-a127901a98b4": {
+    "titulo": "Batman",
+    "autor": "Bob Kane",
+    "issn": "43214321",
+    "cantidad": 250
+  },
+  "b560ddc7-16e5-403a-9eba-743148ffb3d6": {
+    "titulo": "X-Men",
+    "autor": "Stan Lee",
+    "issn": "56785678",
+    "cantidad": 180
+  },
+  "d5ce2625-629f-456b-bf26-f0db2e6b25bf": {
+    "titulo": "Wonder Woman",
+    "autor": "William Moulton Marston",
+    "issn": "87654321",
+    "cantidad": 210
+  },
+  "155135a7-8e85-4aa4-936f-0b96787995bc": {
+    "titulo": "The Flash",
+    "autor": "Robert Kanigher",
+    "issn": "11223344",
+    "cantidad": 300
+  },
+  "7723bf0c-9a27-49a9-ad8c-837c84dd1a0a": {
+    "titulo": "Green Lantern",
+    "autor": "John Broome",
+    "issn": "99887766",
+    "cantidad": 150
+  },
+  "26e1e6fe-5b97-4af6-9ee3-94991a8ac930": {
+    "titulo": "Iron Man",
+    "autor": "Stan Lee",
+    "issn": "34567890",
+    "cantidad": 400
+  },
+  "61b90e23-bc7f-44f2-8b25-448bb7d8e1a8": {
+    "titulo": "Captain America",
+    "autor": "Joe Simon",
+    "issn": "45678901",
+    "cantidad": 230
+  }
+}

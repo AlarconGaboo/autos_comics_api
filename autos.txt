@@ -1,0 +1,44 @@
+{
+  "1c5db92e-45d5-4ed1-b5d5-0d081e705e69": {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "año": 2020,
+    "precio": 16000
+  },
+  "faa4bcde-a75e-49bb-8bc0-8368942a161f": {
+    "marca": "Honda",
+    "modelo": "Civic",
+    "año": 2021,
+    "precio": 18000
+  },
+  "b45f1647-8475-4a65-9ff1-a09d6d2db445": {
+    "marca": "Chevrolet",
+    "modelo": "Cruze",
+    "año": 2018,
+    "precio": 14000
+  },
+  "ffed6d0f-c1c3-4b37-b014-51d0d403c97d": {
+    "marca": "Nissan",
+    "modelo": "Sentra",
+    "año": 2019,
+    "precio": 16000
+  },
+  "a5480f05-bacd-4fb2-9857-01e5ff1ba7d9": {
+    "marca": "Volkswagen",
+    "modelo": "Jetta",
+    "año": 2020,
+    "precio": 17000
+  },
+  "573f5d57-4354-482b-ba61-ec66e130a071": {
+    "marca": "Kia",
+    "modelo": "Forte",
+    "año": 2022,
+    "precio": 19000
+  },
+  "07ab750c-df23-48d6-808f-e3ee5cc126d9": {
+    "marca": "Subaru",
+    "modelo": "Impreza",
+    "año": 2021,
+    "precio": 22000
+  }
+}
